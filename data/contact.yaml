@@ -1,0 +1,17 @@
+---
+title: "CONTACT"
+background_image: "contact.jpg"
+photo: "portrait2.jpeg"
+description: "Call or text for free quotes!"
+
+email:
+  address: "509-589-3170"
+  link: true
+  icon: "fa-phone"
+  icon-pack: "fas"
+
+# social:
+# - icon: "fa-facebook"
+#   icon_pack: "fab"
+#   link: "https://www.facebook.com/Delias-Cleaning-352183895506930/"
+# ---

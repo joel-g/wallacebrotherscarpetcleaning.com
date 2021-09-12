@@ -1,0 +1,20 @@
+---
+title: "SERVICES"
+background_image: "homeoffice.jpg"
+
+# List of services.
+# Optional "text", "icon_pack" & "list"
+services:
+- name: "Residential Carpet Cleaning"
+  icon: "fa-home"
+  icon_pack: "fas"
+  list: [ "One thing", "Another thing", "And some more ..." ]
+- name: "Commercial Carpet Cleaning"
+  icon: "fa-building"
+  icon_pack: "fas"
+  list: [ "One thing", "Another thing", "And some more ..." ]
+- name: "Upholstery Cleaning"
+  icon: "fa-couch"
+  icon_pack: "fas"
+  list: [ "One thing", "Another thing", "And some more ..." ]
+---
